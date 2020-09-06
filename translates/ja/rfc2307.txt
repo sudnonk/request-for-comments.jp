@@ -4,16 +4,16 @@
 
 
 
-Network Working Group                                          L. Howard
-Request for Comments: 2307                        Independent Consultant
-Category: Experimental                                        March 1998
+ネットワークワーキンググループ                                         L. Howard
+Request for Comments: 2307                       独立コンサルタント
+カテゴリ：実験的                                        1998年3月
 
 
-      An Approach for Using LDAP as a Network Information Service
+      ネットワーク情報サービスとしてLDAPを利用するためのアプローチ
 
-Status of this Memo
+このメモのステータス
 
-   This memo defines an Experimental Protocol for the Internet
+   このメモはインターネットコミュニティ向けの実験的プロトコルを定義している。
    community.  It does not specify an Internet standard of any kind.
    Discussion and suggestions for improvement are requested.
    Distribution of this memo is unlimited.
